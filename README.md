@@ -3,7 +3,7 @@
 A simple React Native application that fetches and displays inspirational quotes. Users can generate new quotes, save their favorites, and view all collected quotes.
 
 ## 📺 Demo
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+https://youtu.be/rdYfb1_Migo
 
 ## 🚀 Features
 - Fetches random inspirational quotes from an API
